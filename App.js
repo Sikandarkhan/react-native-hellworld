@@ -27,7 +27,7 @@ useEffect(() => {
 
 return (  
         <View>  
-          <Text >W3Adda</Text>  
+          <Text >MSK</Text>  
           <Text >Hello World</Text>  
         </View>  
       ); 
